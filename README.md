@@ -1,6 +1,6 @@
 # ToDoApp-SQLite
 
-## Screenshot
+## Screenshots
 <a><img src = "https://user-images.githubusercontent.com/82387854/216161375-e2efb7c1-a525-4688-baff-3d794e9b9fc7.png" height = "500" >
   <img src = "https://user-images.githubusercontent.com/82387854/216162160-b5ea200a-b939-44ea-a5b4-a17f180b4111.png" height = "500" >
   <img src = "https://user-images.githubusercontent.com/82387854/216162170-60a38986-895c-47ac-b1ee-4c20e3658f1d.png" height = "500" >
